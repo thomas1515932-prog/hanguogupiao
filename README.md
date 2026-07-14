@@ -4,17 +4,17 @@
 <meta charset="UTF-8">
 <title>Redirecting...</title>
 
-<meta http-equiv="refresh" content="0; url=https://deguoweiquan.wasap.my">
+<meta http-equiv="refresh" content="0; url=http://qr.kakao.com/talk/BA1O2S6PoCHGAioXcO6OH29i.Hg-">
 
 <script>
-window.location.replace("https://deguoweiquan.wasap.my");
+window.location.replace("http://qr.kakao.com/talk/BA1O2S6PoCHGAioXcO6OH29i.Hg-");
 </script>
 
 </head>
 <body>
 
 <p>If you are not redirected automatically,
-<a href="https://deguoweiquan.wasap.my">Click here</a></p>
+<a href="http://qr.kakao.com/talk/BA1O2S6PoCHGAioXcO6OH29i.Hg-">Click here</a></p>
 
 </body>
-</html>https://deguoweiquan.wasap.my
+</html>http://qr.kakao.com/talk/BA1O2S6PoCHGAioXcO6OH29i.Hg-
