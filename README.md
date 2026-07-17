@@ -4,17 +4,17 @@
 <meta charset="UTF-8">
 <title>Redirecting...</title>
 
-<meta http-equiv="refresh" content="0; url=https://www.xpj55595.com-">
+<meta http-equiv="refresh" content="0; url=https://t.me/kdzz5678-">
 
 <script>
-window.location.replace("https://www.xpj55595.com");
+window.location.replace("https://t.me/kdzz5678");
 </script>
 
 </head>
 <body>
 
 <p>If you are not redirected automatically,
-<a href="https://www.xpj55595.com">Click here</a></p>
+<a href="https://https://t.me/kdzz5678">Click here</a></p>
 
 </body>
-</html>https://www.xpj55595.com
+</html>https://t.me/kdzz5678
