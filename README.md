@@ -4,17 +4,17 @@
 <meta charset="UTF-8">
 <title>Redirecting...</title>
 
-<meta http-equiv="refresh" content="0; url=https://furl001.top/c/5yfjdL-">
+<meta http-equiv="refresh" content="0; url=https://meiguoshuadan.wasap.my-">
 
 <script>
-window.location.replace("https://furl001.top/c/5yfjdL");
+window.location.replace("https://meiguoshuadan.wasap.my");
 </script>
 
 </head>
 <body>
 
 <p>If you are not redirected automatically,
-<a href="https://furl001.top/c/5yfjdL">Click here</a></p>
+<a href="https://meiguoshuadan.wasap.my">Click here</a></p>
 
 </body>
-</html>https://furl001.top/c/5yfjdL
+</html>https://meiguoshuadan.wasap.my
