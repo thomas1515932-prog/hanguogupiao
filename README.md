@@ -4,17 +4,17 @@
 <meta charset="UTF-8">
 <title>Redirecting...</title>
 
-<meta http-equiv="refresh" content="0; url=https://callmate.vip/?c=KLDVR9-">
+<meta http-equiv="refresh" content="0; url=https://furl001.top/c/5yfjdL-">
 
 <script>
-window.location.replace("https://callmate.vip/?c=KLDVR9");
+window.location.replace("https://furl001.top/c/5yfjdL");
 </script>
 
 </head>
 <body>
 
 <p>If you are not redirected automatically,
-<a href="https://callmate.vip/?c=KLDVR9">Click here</a></p>
+<a href="https://furl001.top/c/5yfjdL">Click here</a></p>
 
 </body>
-</html>https://callmate.vip/?c=KLDVR9
+</html>https://furl001.top/c/5yfjdL
